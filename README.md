@@ -14,23 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi, I'm Kai 👋
 
-Welcome to my GitHub! I’m a student and a passionate programmer, always eager to learn and create.
+I’m a student and a passionate programmer who loves coding and learning new things. 💻📚
 
 ## 🌱 About Me
 - 🎓 Student at Universitas Negeri Gorontalo. 
 - 🌍 Exploring the world of programming and technology.
 - 🌟 Focused on building projects and enhancing my skills.
-- 🔭 Currently focused on **React.js** to improve my front-end development.
+- 🔭 Currently focused on **React.js**.
+- 🚀 Enjoy building projects. Addicted to coding. 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyutams&show_icons=true&hide_title=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyutams&layout=compact)
- 
-## Personal Website
-[My Personal Web](https://kaify.vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whyutams&show_icons=true&hide_title=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyutams&layout=compact" alt="Top Languages" />
+</div>
 
-Feel free to explore my projects, and let's connect to collaborate or share ideas!
+## 🌐 Personal Website
+<div align="center">
+  <a href="https://kaify.vercel.app">My Personal Web</a> 🌐
+</div>
+ 
 
