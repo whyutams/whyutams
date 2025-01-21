@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I’m a student and a passionate programmer who loves coding and learning new things. 💻📚
 
+🌐 [## My Personal Web](https://kaify.vercel.app)
+
 ## 🌱 About Me
 - 🎓 Student at Universitas Negeri Gorontalo. 
 - 🌍 Exploring the world of programming and technology.
@@ -27,13 +29,10 @@ I’m a student and a passionate programmer who loves coding and learning new th
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyutams&show_icons=true&hide_title=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whyutams&show_icons=true&hide_title=true&hide=prs" alt="GitHub Stats" /> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyutams&layout=compact" alt="Top Languages" />
 </div>
+ 
 
-## 🌐 Personal Website
-<div align="center">
-  <a href="https://kaify.vercel.app">My Personal Web</a> 🌐
-</div>
  
 
