@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Kai 👋
+# Hi, I'm Wahyu Tamuu 👋
 
 I’m a student and a passionate programmer who loves coding and learning new things. 💻📚
 
