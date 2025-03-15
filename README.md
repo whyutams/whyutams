@@ -22,9 +22,7 @@ I’m a student and a passionate programmer who loves coding and learning new th
 
 ## 🌱 About Me
 - 🎓 Student at Universitas Negeri Gorontalo. 
-- 🌍 Exploring the world of programming and technology.
-- 🌟 Focused on building projects and enhancing my skills.
-- 🔭 Currently focused on **React.js**.
+- 🌍 Exploring the world of programming and technology. 
 - 🚀 Enjoy building projects. Addicted to coding. 
 
 ## 📊 GitHub Stats
