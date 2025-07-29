@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m a student and a passionate programmer who loves coding and learning new things. 💻📚
 
-🌐 [My Personal Web](https://kaify.vercel.app)
+🌐 [My Portfolio Web](https://kaify.vercel.app)
 
 ## 🌱 About Me
 - 🎓 Student at Universitas Negeri Gorontalo. 
