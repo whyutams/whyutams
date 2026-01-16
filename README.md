@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO_WEB-Visit_Now-2ea44f?style=for-the-badge" alt="Portfolio Website">
   </a>
   <a href="https://github.com/whyutams?tab=repositories">
-    <img src="https://img.shields.io/github/stars/whyutams?style=for-the-badge&logo=star&color=ffcb47&label=⭐%20Stars" alt="Total Stars"/>
+    <img src="https://img.shields.io/github/stars/whyutams?style=for-the-badge&logo=star&color=ffcb47&label=%E2%AD%90%20Stars" alt="Total Stars"/>
   </a>
   <img src="https://img.shields.io/badge/Joined%20Github-2020-7057ff?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2020"/>
 
