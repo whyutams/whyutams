@@ -31,7 +31,7 @@
   <h3>🛠️ Tech Stack & Tools</h3>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,react,vue,express,laravel,tailwind,bootstrap,nodejs,npm,mongodb,mysql,git,github,vscode,visualstudio,androidstudio,postman,figma,discord&theme=dark&perline=12" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,react,vue,express,laravel,tailwind,bootstrap,nodejs,npm,mongodb,mysql,sqlite,supabase,git,github,vscode,visualstudio,androidstudio,postman,figma,discord&theme=dark&perline=10" alt="My Skills" />
     </a>
   </div>
 
