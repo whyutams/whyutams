@@ -44,15 +44,16 @@
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=whyutams&label=Profile%20Views&color=blue&style=flat" alt="whyutams" />
-  
-  <br>
-  
+
   <a href="https://instagram.com/whyutams_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:wahyustamuu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=whyutams&label=Profile%20Views&color=blue&style=flat" alt="whyutams" />
 
 </div>
