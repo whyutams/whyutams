@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BD1FF&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Wahyu;Fullstack+%26+Android+Dev;Informatics+Student+@+UNG;Check+out+my+portfolio!+%F0%9F%91%87" alt="Typing SVG" />
   </a>
 
-  <h3>👨‍💻 Moh. Wahyu S Tamuu</h3>
+  <h3>👨‍💻 MOH. WAHYU S TAMUU</h3>
   
   <p>
      Based in <b>Gorontalo, Indonesia</b> 🇮🇩<br>
@@ -25,20 +25,21 @@
   <br>
 
   <h3>🛠️ Tech Stack & Tools</h3>
-  <p>I use a wide range of tools to build software. Here are some of them:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin&theme=dark" alt="Languages" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,vue,express,laravel,codeigniter,tailwind,bootstrap&theme=dark" alt="Frameworks" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,mongodb,mysql,git,github,vscode,visualstudio,androidstudio,postman,figma,discord&theme=dark" alt="Tools" />
-  </a>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,react,vue,express,laravel,tailwind,bootstrap,nodejs,npm,mongodb,mysql,git,github,vscode,visualstudio,androidstudio,postman,figma,discord&theme=dark&perline=12" alt="My Skills" />
+    </a>
+  </div>
 
   <br><br>
 
   <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=whyutams&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="whyutams's GitHub stats" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyutams&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></p>
+    <p>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=whyutams&show_icons=true&theme=tokyonight&hide_border=true" alt="whyutams's GitHub stats" />
+    </p>
+    <p>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=whyutams&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </p>
   </div>
 
   <br>
