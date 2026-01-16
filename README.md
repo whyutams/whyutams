@@ -17,7 +17,7 @@
   <a href="https://github.com/whyutams?tab=repositories">
     <img src="https://img.shields.io/github/stars/whyutams?style=for-the-badge&logo=star&color=ffcb47&label=Stars" alt="Total Stars"/>
   </a>
-  <img src="https://img.shields.io/badge/Joined-2020-7057ff?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2020"/>
+  <img src="https://img.shields.io/badge/Joined%20Github-2020-7057ff?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2020"/>
 
   <br><br>
 
