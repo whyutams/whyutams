@@ -46,7 +46,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=whyutams&label=Profile%20Views&color=blue&style=flat" alt="whyutams" />
   
-  <br><br>
+  <br>
   
   <a href="https://instagram.com/whyutams_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
