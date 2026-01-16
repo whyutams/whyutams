@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BD1FF&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Wahyu;Fullstack+%26+Android+Dev;Informatics+Student+@+UNG;Check+out+my+portfolio!+%F0%9F%91%87" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BD1FF&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Wahyu;Fullstack+%26+Android+Dev;Check+out+my+portfolio!+%F0%9F%91%87" alt="Typing SVG" />
   </a>
 
   <h3>👨‍💻 MOH. WAHYU S TAMUU</h3>
