@@ -11,7 +11,7 @@
      Informatics Engineering Student at <b>Universitas Negeri Gorontalo</b> 🎓
   </p>
 
-  <a href="https://kaify.vercel.app" target="_blank">
+  <a href="https://whyutams-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO_WEB-Visit_Now-2ea44f?style=for-the-badge" alt="Portfolio Website">
   </a>
   <a href="https://github.com/whyutams?tab=repositories">
