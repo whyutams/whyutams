@@ -22,18 +22,18 @@
   <br><br>
 
   <p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0hay2um8ycglh3tvfiettvi8u&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0hay2um8ycglh3tvfiettvi8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
-    </a>
-  </p>
-
-  <br><br>
-
-  <p align="center">
     <i>"I'm a passionate programmer who turns coffee into code ☕. <br> 
     Focusing on building scalable web apps and functional android mobile applications."</i>
   </p>
 
+  <br><br>
+
+<p align="center">
+    <a href="https://open.spotify.com/user/0hay2um8ycglh3tvfiettvi8u" target="_blank">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=0hay2um8ycglh3tvfiettvi8u&count=3" alt="Spotify recently played" width="400" />
+    </a>
+  </p>
+  
   <br>
 
   <h3>🛠️ Tech Stack & Tools</h3>
