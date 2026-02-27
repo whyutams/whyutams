@@ -8,7 +8,7 @@
   
   <p>
      Based in <b>Gorontalo, Indonesia</b> 🇮🇩<br>
-     Informatics Engineering Student at <b>Universitas Negeri Gorontalo</b> 🎓
+     Informatics Engineering Student at <b>Gorontalo State University</b> 🎓
   </p>
 
   <a href="https://whyutams-portfolio.vercel.app/" target="_blank">
