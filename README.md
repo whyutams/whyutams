@@ -7,7 +7,7 @@
   <h3>👨‍💻 MOH. WAHYU S TAMUU</h3>
   
   <p>
-     Based in <b>Gorontalo, Indonesia</b> 🇮🇩<br>
+     Based in <b>Gorontalo, Indonesia</b><br>
      Informatics Engineering Student at <b>Gorontalo State University</b> 🎓
   </p>
 
