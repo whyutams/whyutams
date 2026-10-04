@@ -28,11 +28,11 @@
 
   <br><br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://open.spotify.com/user/0hay2um8ycglh3tvfiettvi8u" target="_blank">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=0hay2um8ycglh3tvfiettvi8u&count=3" alt="Spotify recently played" width="400" />
     </a>
-  </p>
+  </p> -->
   
   <br>
 
