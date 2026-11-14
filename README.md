@@ -5,7 +5,7 @@
   </a>
 -->
 
-  <h3>👨‍💻 MOH. WAHYU S TAMUU</h3>
+  <h3>👨‍💻 MOH. WAHYU S TAMUU</h3> 
   
   <p>
      Based in <b>Gorontalo, Indonesia</b><br>
